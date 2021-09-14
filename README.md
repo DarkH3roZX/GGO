@@ -30,7 +30,7 @@ By clicking enter, you get 1 gold each click. But, if you beat 1v1 at any diffic
 
 There are 6 rarity levels. The 6 star is a super rare character. If you manage to get 1, it means that you are super lucky. The max level of 1-4* character is 10, 5* max level is 5, and 6* max level is 3.
 
-### Chest Loots 
+## Chest Loots 
 
 Bronze:
 -> 10 1*
