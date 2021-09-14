@@ -4114,9 +4114,7 @@ void exitMenu() {
 
 	printf("Tester:\n");
 	printf("Evan Louis Sutanto\n");
-	printf("Jonathan Owen Kuntjoro\n");
-	printf("Brian Dhammawan Sutanto\n");
-	printf("Marvellous Marsel Setiawan\n\n");
+	printf("Jonathan Owen Kuntjoro\n\n");
 
 	printf("Supporter:\n");
 	printf("VA Private Tutoring\n\n");
