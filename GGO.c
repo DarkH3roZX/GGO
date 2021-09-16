@@ -2264,8 +2264,6 @@ int main() {
 							}
 							while (shopWarp != 1 && shopWarp != 2 && shopWarp != 3 && shopWarp != 4 && shopWarp != 5);
 							
-							system("cls");
-							
 							// Bronze Chest
 							if (shopWarp == 1) {
 								// Check if the diamond is enough or no
@@ -2276,6 +2274,8 @@ int main() {
 
 									continue;
 								}
+								
+								system("cls");
 								
 								player[userIndex].gold -= 500;
 								printf("You got:\n");
@@ -2308,6 +2308,8 @@ int main() {
 									notEnoughDiamond();
 									continue;
 								}
+								
+								system("cls");
 								
 								player[userIndex].diamond -= 50;
 								
@@ -2421,6 +2423,8 @@ int main() {
 									notEnoughDiamond();
 									continue;
 								}
+								
+								system("cls");
 								
 								player[userIndex].diamond -= 250;
 								
@@ -2547,6 +2551,8 @@ int main() {
 									notEnoughDiamond();
 									continue;
 								}
+								
+								system("cls");
 								
 								player[userIndex].diamond -= 1000;
 								
