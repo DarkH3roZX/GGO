@@ -3879,7 +3879,7 @@ int main() {
 				printf("- Tank elemental skill reduces your damage by 75%% for 3 turns\n");
 				printf("- Fighter elemental skill increases your damage 3x\n");
 				printf("- Assassin elemental skill makes you attack 3 times in 1 turn\n");
-				printf("- Mage elemental skill heals you HP by 25%% + 10\n");
+				printf("- Mage elemental skill poisons the enemy for 3 turns\n");
 				printf("- All-around elemental skill grants you an extra attack and defend by 30%% for 2 rounds\n\n");
 
 				printf("There are 3 ways to get gold:\n");
