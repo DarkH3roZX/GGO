@@ -12,10 +12,10 @@ There are 4 main roles and 1 special role in this game. The main role includes T
 - All-around grants you all bonus
 
 In the 1v1 arena, you can use elemental skills. Each role has a different elemental skills. If the role is same, the skill then applies to all heroes, no matter what the name is.
-- Tank elemental skill reduces your damage by 75%% for 3 turns
+- Tank elemental skill reduces your damage by 75% for 3 turns
 - Fighter elemental skill increases your damage 3x
 - Assassin elemental skill makes you attack 3 times in 1 turn
-- Mage elemental skill heals you HP by 25%% + 10
+- Mage elemental skill poisons the enemy for 3 turns
 - All-around elemental skill grants you an extra attack and defend by 30%% for 2 rounds
 
 There are 3 ways to get gold:
